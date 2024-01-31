@@ -1,0 +1,13 @@
+.ContactHeader {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.ContactHeader h1 {
+  font-size: 48px;
+  font-weight: 800;
+  max-width: 80%;
+}
+.ContactHeader p {
+  font-weight: 500;
+}
